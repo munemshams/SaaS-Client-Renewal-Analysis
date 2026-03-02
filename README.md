@@ -65,9 +65,9 @@ The Python script:
 | File Name | Description |
 |----------|-------------|
 | `saas_subscription_analysis.py` | Main Python script performing all calculations and generating visualizations. |
-| `client_details.csv` | Client demographic, industry, and company size information. |
-| `subscription_records.csv` | Subscription start/end dates and renewal flags. |
-| `economic_indicators.csv` | Quarterly inflation and GDP growth data. |
+| `client_details.csv` | Dataset for Client demographic, industry, and company size information. |
+| `subscription_records.csv` | Dataset with Subscription start/end dates and renewal flags. |
+| `economic_indicators.csv` | Quarterly inflation and GDP growth dataset. |
 | `total_fintech_crypto_clients.txt` | Number of clients in Fintech or Crypto industries. |
 | `top_industry.txt` | Industry with the highest renewal rate. |
 | `average_inflation_for_renewals.txt` | Inflation rate when renewed clients renewed their subscriptions. |
